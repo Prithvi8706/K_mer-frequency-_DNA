@@ -46,4 +46,5 @@ plt.title(f"HeatMap of {k}-mer frequencies in the DNA")
 plt.xlabel("Sliding Window Position")
 plt.tight_layout()
 plt.show()
+#hi
 
